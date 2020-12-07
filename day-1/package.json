@@ -1,0 +1,23 @@
+{
+  "name": "day-1",
+  "version": "1.0.0",
+  "description": "Solution for day 1 project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxrangel/advent-code-2020-ztm.git"
+  },
+  "keywords": [
+    "node",
+    "adventcode"
+  ],
+  "author": "Maximiliano Urbina Rangel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxrangel/advent-code-2020-ztm/issues"
+  },
+  "homepage": "https://github.com/maxrangel/advent-code-2020-ztm#readme"
+}
